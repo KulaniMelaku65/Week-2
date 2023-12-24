@@ -1,0 +1,6 @@
+logs/**
+
+./data
+./logs
+./notebooks/track_tablecsvcsv
+./notebooks/trajectory_table
